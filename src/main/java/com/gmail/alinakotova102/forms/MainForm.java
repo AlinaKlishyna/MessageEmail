@@ -1,4 +1,4 @@
-package com.gmail.alinakotova102;
+package com.gmail.alinakotova102.forms;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

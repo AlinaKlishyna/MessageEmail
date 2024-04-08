@@ -1,5 +1,7 @@
 package com.gmail.alinakotova102;
 
+import com.gmail.alinakotova102.forms.MainForm;
+
 import javax.swing.*;
 
 public class Main {
