@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.gmail.alinakotova102.MainForm">
+  <grid id="27dc6" binding="panelMain" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="20" y="53" width="695" height="502"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+    </properties>
+    <border type="line"/>
+    <children>
+      <component id="12f69" class="javax.swing.JLabel" binding="info">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag top="90" left="0" bottom="0" right="0" weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <font name="Malayalam MN" size="72"/>
+          <foreground color="-5658199"/>
+          <preferredSize width="400" height="100"/>
+          <text value="Scegli il file"/>
+          <verticalAlignment value="3"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="6cbe4" class="javax.swing.JButton" binding="select">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <borderPainted value="false"/>
+          <contentAreaFilled value="true"/>
+          <defaultCapable value="true"/>
+          <enabled value="true"/>
+          <focusCycleRoot value="false"/>
+          <focusPainted value="false"/>
+          <icon value="image/selectFile.gif"/>
+          <label value=""/>
+          <rolloverEnabled value="false"/>
+          <selected value="false"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
